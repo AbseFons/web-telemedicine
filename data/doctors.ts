@@ -13,7 +13,7 @@ export const doctors: Doctor[] = [
     name: "Dra. Skarlet Nolasco",
     cmp: "CMP 114158",
     specialty: "Cirugía General",
-    experienceYears: 6,
+    experienceYears: 1,
     bio: "Cirujana general con experiencia en atención pre y post operatoria y teleorientación médica.",
   },
   {
