@@ -18,7 +18,7 @@ export const doctors: Doctor[] = [
   },
   {
     id: 2,
-    name: "Dr. Andrés Nolasco",
+    name: "Dr. Andrea Nolasco",
     cmp: "CMP 045621",
     specialty: "Cirugía General",
     experienceYears: 12,
