@@ -11,14 +11,14 @@ export const doctors: Doctor[] = [
   {
     id: 1,
     name: "Dra. Skarlet Nolasco",
-    cmp: "CMP 012345",
+    cmp: "CMP 114158",
     specialty: "Cirugía General",
     experienceYears: 6,
     bio: "Cirujana general con experiencia en atención pre y post operatoria y teleorientación médica.",
   },
   {
     id: 2,
-    name: "Dr. Andreaa Nolasco",
+    name: "Dr. Andrea Nolasco",
     cmp: "CMP 045621",
     specialty: "Cirugía General",
     experienceYears: 12,
