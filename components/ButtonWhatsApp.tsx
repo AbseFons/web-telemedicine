@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 const WHATSAPP_URL =
-  "https://wa.me/51957651092?text=Hola,%20vengo%20desde%20la%20web%20Medify%20y%20quiero%20agendar%20una%20teleconsulta.";
+  "https://wa.me/51999210899?text=Hola,%20vengo%20desde%20la%20web%20Medify%20y%20quiero%20agendar%20una%20teleconsulta.";
 
 interface ButtonWhatsAppProps {
   label?: string;
